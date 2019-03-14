@@ -2,6 +2,10 @@
 
 %parameters
 %---------------------------------------------------------------
+%%
+% 
+% $$e^{\pi i} + 1 = 0$$
+% 
 p.K = -3.5; % coupling strength
 nIters = 20000; %number of iterations
 tBegin = 0;
